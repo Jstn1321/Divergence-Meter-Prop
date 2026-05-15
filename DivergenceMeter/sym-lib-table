@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DivergenceMeter")(type "KiCad")(uri "${KIPRJMOD}/DivergenceMeter.kicad_sym")(options "")(descr ""))
+)
