@@ -32,6 +32,7 @@
 
 # **Schematic**
 
-  <img width="1543" height="902" alt="Schematic" src="https://github.com/user-attachments/assets/027c6f42-a935-4c83-93b5-1efd635cce74" />
+  <img width="1545" height="891" alt="image" src="https://github.com/user-attachments/assets/b99e58ea-5c05-4d70-9da8-2077d14b59c3" />
+
 
 # **Photoshoot**
